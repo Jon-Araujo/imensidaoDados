@@ -1,6 +1,6 @@
 import pandas as pd
 
-dataframe = pd.read_excel('./dataframe.xlsx')
+dataframe = pd.read_excel('./assets/data/dataframe.xlsx')
 
 ###### Verificação de importação de dados: 
 print(dataframe)
