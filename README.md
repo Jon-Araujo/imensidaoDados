@@ -3,7 +3,7 @@
 **Nome:** Jonathan Araujo - 202205178111@alunos.estacio.br\
 **Curso:** Desenvolvimento Full Stack\
 **Período:** 2024.2\
-**Professor:** Josyane Souza\
+**Professor:** Altamira de Souza Queiroz\
 **Disciplina:** Tratando a imensidão dos dados
 
 # Missão Prática Nível 3 Mundo 5
@@ -51,5 +51,5 @@ Para instalar e configurar o ambiente do projeto, siga os passos abaixo:
 5. Execute o script principal:
 
 ```sh
-python main.py
+python src/main.py
 ```
